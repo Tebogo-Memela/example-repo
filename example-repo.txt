@@ -1,0 +1,13 @@
+Project Name:
+
+Sort and Search
+******************************************************************************************************************************************
+Description:
+
+This script showcases fundamental searching and sorting algorithms. It takes an unsorted list of numbers and first uses a Linear Search to find a target value. It then sorts the list with Insertion Sort and performs a Binary Search to find the same value, illustrating the difference in searching an ordered vs. an unordered list.
+
+*******************************************************************************************************************************************
+
+Link:
+
+https://github.com/Tebogo-Memela/example-repo.git
